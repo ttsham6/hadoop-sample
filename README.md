@@ -1,4 +1,5 @@
-# traffic-accident-analyzer
+# hadoop-sample
+Hadoop/Hiveのサンプル環境です。
 
 ## Docker Compose 構築
 ```shell
